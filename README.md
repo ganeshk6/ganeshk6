@@ -5,7 +5,7 @@ Before publishing, replace any contact/portfolio links if your current links hav
 -->
 
 <div align="center">
-  <img src="./linkedin_banner_ganesh.png" alt="Ganesh Kumar — Full Stack Developer" width="100%" />
+  <img src="./banner_ganesh.png" alt="Ganesh Kumar — Full Stack Developer" width="100%" />
 </div>
 
 <div align="center">
